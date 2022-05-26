@@ -1,6 +1,6 @@
 Getting Started with React App (OPEN YOUR TERMINAL)
 
-cd /gadjian-app
+cd /my-cats
 
 npm install
 
